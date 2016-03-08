@@ -1,60 +1,90 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <title>About Global Goals</title>
-        <link rel='stylesheet' type='text/css' href='exercise2.css'
-    </head>
-        <style>
-            ul.nav li{ 
-                display: inline-block;
-                padding-right: 10px;
-            }
-        </style>
-    </head>
-    <body>
-        <ul class='nav'>
-            <li><a href="#explanation">Home</a></li>
-            <li><a href="#about_blue">About blue</a></li>
-            <li><a href="#about_yellow">About yellow</a></li>
-        </ul>
+<head>
+  <title>About Global Goals</title>
+<link href='dist/css/bootstrap.css' rel='stylesheet'>
+<link href='main.css' rel='stylesheet'>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
 
-        <div id='page_content'>
+<body>
+  <div class="container">
+    <div class="row">
+      <div class='col-sm-8'>
+        <h1>Healthy sandwiches for your team</h1>
+      </div>  
+      <div class='col-sm-4'>
+        <img src='images/sandwich.png' class="img-responsive">
+      </div> 
+    </div>      
 
-            <h1>About the Global Goals</h1>
 
-            <div id='explanation'>
-                <p>This is an information page about the Global Goals. Read on to find out more.</p>
-                
+  <div class='jumbotron'>
 
-            </div>
+    <form role='form'>
+      <label for="email">Find out more</label>
+      <input type="text" name="email" >
+      <button class='btn btn-success'>Send</button>
+    </form>
+  </div>
 
-            <div id='about_blue' class='color-info'>
-                <h2>About poverty</h2>
+  <div id="buzz" class="text-center" class="row">
 
-                <p>This section is all about the colour blue. This text should be black.</p>
+    <h2><small>The Buzz</small><br />What are people saying?</h2>
+    <div class='col-sm-4'> 
+      <img src='images/person.jpg' class=img-circle>
+    <blockquote>
+      <p> These sandwiches are the best I've ever tasted, for sure. I now eat them every day - breakfast, lunch and dinner.</p>
+      <small>Mr Smith, Professional sandwich taster</small>
+    </blockquote>
+    </div>
 
-                <ul class='blue_list'>
-                    <li>This is an unordered list.</li>
-                    <li>It contains some stuff about the colour blue.</li>
-                    <li>The text should be blue.</li>
-                    <li class='important'>The biggest blue animal in the world is the blue whale.</li>
-                </ul>
+    <div class="col-sm-4">
+      <img src='images/person.jpg' class=img-circle>
+    <blockquote>
+      <p>My team are always far more productive after we order from Sam's. 40% more productive, in fact.</p>
+      <small>Miss McAdam, CEO Workplace Analytics</small>
+    </blockquote>
+    </div>
 
-            </div>
+    <div class="col-sm-4">
+      <img src='images/person.jpg' class=img-circle>
+    <blockquote>
+      <p>We switched to Sam's Sarnies and won our first government contract the next day. Coincidence? I think not!</p>
+      <small>Mr Green, President Suspicion Inc</small>
+    </blockquote>
+    </div> 
+  </div>
 
-            <div id='about_yellow' class='color-info'>
-                <h2>About yellow</h2>
 
-                <p>The section is all about the colour yellow. This text should be black.</p>
 
-                <ul class='yellow-list'>
-                    <li>This is an unordered list.</li>
-                    <li>It contains some stuff about the colour yellow.</li>
-                    <li>The text should be orange.</li>
-                    <li class='important'>The tastiest yellow fruit is the banana - much nicer than lemons.</li>
-                </ul>
 
-            </div>
+  <div id="mission">
+    <h2><small>Our mission</small><br />Join us in helping busy professionals eat healthily</h2>
 
-    </body>
+    <p class="lead">
+    We believe that healthy workers are more productive workers.</p>
+
+    <p class="lead">
+    Providing your team with a healthy lunch each day improves both motivation and morale.</p>
+
+    <p class="lead">
+    We deliver healthy sandwiches, made with the best ingredients, to your workplace every day.</p>
+    
+
+    <div id='social-buttons'>
+      <button class='btn btn-lg'>Twitter</button>
+      <button class='btn btn-lg'>Facebook</button>
+      <button class='btn btn-lg'>Pinterest</button>
+    </div>
+  </div>
+</div>
+</div>
+</div>
+
+
+</body>
+
+
+<!-- Sandwich from: © Kosoff | <a href="http://www.dreamstime.com/">Dreamstime Stock Photos</a> & <a href="http://www.stockfreeimages.com/">Stock Free Images</a> -->
 </html>
