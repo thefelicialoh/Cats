@@ -1,40 +1,40 @@
 .container-fluid {
-	color:blue;
+	color:darkslateblue;
 	font-size: 18px;
-	font-family: helvetica;
+	font-family: courier;
 }
 .endorse {
-	font-family: helvetica;
+	font-family: courier;
 	font-size: 16px;
-	color: purple;
+	color: forestgreen;
 
 }
 .jumbotron {
-	font-family: helvetica
+	font-family: courier;
 
 }
 #buzz {
-	font-family:helvetica;
+	font-family:courier;
 }
 .jamie {
-	font-family: helvetica;
+	font-family: courier;
 	font-size: 12px;
-	color: red;
+	color: saddlebrown;
 
 }
 .malala {
-	font-family: helvetica;
+	font-family: courier;
 	font-size: 12px;
-	color:orange;
+	color:cornflowerblue;
 }
 .lily {
-	font-family: helvetica;
+	font-family: courier;
 	font-size: 12px;
-	color: blue;
+	color: darkorchid;
 }
 
 #mission {
-	font-family: helvetica;
+	font-family: courier;
 	font-size: 14px;
-	color: purple;
+	color: seagreen;
 }
