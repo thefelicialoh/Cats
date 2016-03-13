@@ -3,6 +3,11 @@
 	font-size: 22px;
 	font-family: verdana;
 }
+
+.backgroundimage{
+    	opacity: 0.4;
+}
+
 .endorse {
 	font-family: verdana;
 	font-size: 18px;
