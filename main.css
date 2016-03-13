@@ -1,11 +1,11 @@
 .container-fluid {
 	color:darkslateblue;
-	font-size: 18px;
+	font-size: 22px;
 	font-family: verdana;
 }
 .endorse {
 	font-family: verdana;
-	font-size: 16px;
+	font-size: 18px;
 	color: cadetblue;
 
 }
@@ -18,23 +18,23 @@
 }
 .jamie {
 	font-family: verdana;
-	font-size: 13px;
+	font-size: 15px;
 	color: darkcyan;
 
 }
 .malala {
 	font-family: verdana;
-	font-size: 13px;
-	color: chocolate;
+	font-size: 15px;
+	color: darkbrown;
 }
 .lily {
 	font-family: verdana;
-	font-size: 13px;
+	font-size: 15px;
 	color: darkmagenta;
 }
 
 #mission {
 	font-family: verdana;
-	font-size: 14px;
-	color: cadetblue;
+	font-size: 17px;
+	color: darkslateblue;
 }
