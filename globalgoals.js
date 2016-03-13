@@ -20,7 +20,6 @@ $(function(){
 
 /*$('h1').fadeIn()*/
 
-$('h2').css('color', '#ff0')
 $('h1').fadeIn(7000)
 
 });
