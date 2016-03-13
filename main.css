@@ -1,40 +1,40 @@
 .container-fluid {
 	color:darkslateblue;
 	font-size: 18px;
-	font-family: courier;
+	font-family: verdana;
 }
 .endorse {
-	font-family: courier;
+	font-family: verdana;
 	font-size: 16px;
-	color: forestgreen;
+	color: darkseagreen;
 
 }
 .jumbotron {
-	font-family: courier;
+	font-family: verdana;
 
 }
 #buzz {
-	font-family:courier;
+	font-family:verdana;
 }
 .jamie {
-	font-family: courier;
+	font-family: verdana;
 	font-size: 12px;
-	color: saddlebrown;
+	color: darkcyan;
 
 }
 .malala {
-	font-family: courier;
+	font-family: verdana;
 	font-size: 12px;
-	color:cornflowerblue;
+	color: crimson;
 }
 .lily {
-	font-family: courier;
+	font-family: verdana;
 	font-size: 12px;
-	color: darkorchid;
+	color: darkmagenta;
 }
 
 #mission {
-	font-family: courier;
+	font-family: verdana;
 	font-size: 14px;
-	color: seagreen;
+	color: darkseagreen;
 }
