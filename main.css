@@ -39,3 +39,8 @@
 	font-size: 17px;
 	color: darkslateblue;
 }
+
+#background {
+	opacity: 0.5;
+}
+}
