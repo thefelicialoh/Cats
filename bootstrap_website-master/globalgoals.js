@@ -20,11 +20,8 @@ $(function(){
 
 /*$('h1').fadeIn()*/
 
-<<<<<<< HEAD
-$('h4').fadeIn(7000)
-=======
-$('h4').fadeOut(7000)*
->>>>>>> origin/gh-pages
+HEAD
+$('h1').fadeOut(7000)*
 
 });
 
