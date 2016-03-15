@@ -6,7 +6,7 @@ $(function(){
 
 /*$('h1').show() */
 
-/*$('h1').css('color', '#f00')*/
+/*$('h1').css('color', '#f00') */
 
 /*$('h1').css('color', '#ff0')*/
 
@@ -20,8 +20,9 @@ $(function(){
 
 /*$('h1').fadeIn()*/
 
-HEAD
+
 $('h1').fadeOut(7000)
+$('h1').fadeIn(6000)
 
 });
 
