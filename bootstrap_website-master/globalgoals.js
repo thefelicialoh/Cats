@@ -20,7 +20,7 @@ $(function(){
 
 /*$('h1').fadeIn()*/
 
-$('h1').fadeIn(7000)
+$('h4').fadeIn(7000)
 
 });
 
