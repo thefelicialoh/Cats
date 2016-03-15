@@ -1,13 +1,13 @@
 .container-fluid {
 	color:darkslateblue;
 	font-size: 22px;
-	font-family: verdana;
+	font-family: Georgia;
 }
 
 .endorse {
 	font-family: Georgia;
 	font-size: 18px;
-	color: indigo;
+	color: white;
 
 }
 .jumbotron {
@@ -15,27 +15,27 @@
 
 }
 #buzz {
-	font-family:verdana;
+	font-family: Georgia;
 }
 .jamie {
 	font-family: helvetica;
 	font-size: 15px;
-	color: hotpink;
+	color: white;
 
 }
 .malala {
-	font-family: verdana;
+	font-family: helvetica;
 	font-size: 15px;
-	color: white;
+	color: mediumvioletred;
 }
 .lily {
-	font-family: verdana;
+	font-family: helvetica;
 	font-size: 15px;
-	color: white;
+	color: mistyrose;
 }
 
 #mission {
-	font-family: verdana;
+	font-family: Georgia;
 	font-size: 17px;
 	color: darkslateblue;
 }
