@@ -21,7 +21,7 @@ $(function(){
 /*$('h1').fadeIn()*/
 
 HEAD
-$('h1').fadeOut(7000)*
+$('h1').fadeOut(7000)
 
 });
 
