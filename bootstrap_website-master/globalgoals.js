@@ -20,7 +20,8 @@ $(function(){
 
 /*$('h1').fadeIn()*/
 
-$('h1').fadeIn(7000)
+$('endorse').fadeOut(7000)
+$('endorse').fadeIn(9000)
 
 });
 
